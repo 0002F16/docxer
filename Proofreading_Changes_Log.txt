@@ -1,0 +1,7 @@
+This run produced separate logs.
+Grammar edits log: /Users/macbookm1/Documents/Projects/docxer/grammar_edits.log
+Skipped items log: /Users/macbookm1/Documents/Projects/docxer/skipped_items.log
+No-issues log: /Users/macbookm1/Documents/Projects/docxer/no_issues.log
+Total grammar edits applied: 9
+Total skipped items: 1829
+Total paragraphs checked with no grammar issues: 2005

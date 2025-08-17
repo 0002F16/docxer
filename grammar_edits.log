@@ -1,0 +1,54 @@
+--- Grammar Edit ---
+Original: Yes. The change of the assessment in the FDDA itself constituted a new assessment. As such, the taxpayer should have given the chance to dispute the same via the process laid down in the Tax Code which is by way of filing a protest. Given that this is was not complied with and what was issued was already an FDDA, the circumstances certainly deprived the petitioner of a reasonable opportunity to be heard and submit evidence in support of its defense which is a clear violation of due process requirements.
+Corrected: Yes. The change of the assessment in the FDDA itself constituted a new assessment. As such, the taxpayer should have given the chance to dispute the same via the process laid down in the Tax Code which is by way of filing a protest. Given that this is been not complied with and what was issued was already an FDDA, the circumstances certainly deprived the petitioner of a reasonable opportunity to be heard and submit evidence in support of its defense which is a clear violation of due process requirements.
+Grammar rules applied:
+- BEEN_PART_AGREEMENT [GRAMMAR/grammar] Consider using either the past participle “been” or the present participle “being” here. -> 'been'
+
+--- Grammar Edit ---
+Original: Yes. The change of the assessment in the FDDA itself constituted a new assessment. As such, the taxpayer should have given the chance to dispute the same via the process laid down in the Tax Code which is by way of filing a protest. Given that this is been not complied with and what was issued was already an FDDA, the circumstances certainly deprived the petitioner of a reasonable opportunity to be heard and submit evidence in support of its defense which is a clear violation of due process requirements.
+Corrected: Yes. The change of the assessment in the FDDA itself constituted a new assessment. As such, the taxpayer should have given the chance to dispute the same via the process laid down in the Tax Code which is by way of filing a protest. Given that this is being not complied with and what was issued was already an FDDA, the circumstances certainly deprived the petitioner of a reasonable opportunity to be heard and submit evidence in support of its defense which is a clear violation of due process requirements.
+Grammar rules applied:
+- BEEN_PART_AGREEMENT [GRAMMAR/grammar] Did you mean “is being” or “has been”? -> 'is being'
+
+--- Grammar Edit ---
+Original: Forward Shifting – when the burden of tax is transferred from the manufacturer, then to the distributor and finally to the ultimate consumer of the product; best example is VAT
+Corrected: Forward Shifting – when the burden of tax is transferred from the manufacturer, then to the distributor and finally to the ultimate consumer of the product; the best example is VAT
+Grammar rules applied:
+- THE_SUPERLATIVE [GRAMMAR/grammar] A determiner may be missing. -> '; the best'
+
+--- Grammar Edit ---
+Original: A: The compromise settlement of the any tax liability shall be subject to the following minimum amounts: 
+Corrected: A: The compromise settlement of any tax liability shall be subject to the following minimum amounts: 
+Grammar rules applied:
+- THE_SOME [GRAMMAR/grammar] There appears to be a superfluous article here. -> 'any'
+
+--- Grammar Edit ---
+Original: While Tax Exemption is an immunity from civil liability only. It is an immunity of privilege, a freedom from a charge or burden of which others are subjected. It is generally prospective in application. (Justice Dimaampao, Tax Principles and Remedies, pg. 140, citing People v. Castañeda, Jr., 165 SCRA 327 and Florer v. Sheridan, 137 Ind. 28, 36 NE 365)
+Corrected: While Tax Exemption is an immunity from civil liability only. It is an immunity of privilege, freedom from a charge or burden of which others are subjected. It is generally prospective in application. (Justice Dimaampao, Tax Principles and Remedies, pg. 140, citing People v. Castañeda, Jr., 165 SCRA 327 and Florer v. Sheridan, 137 Ind. 28, 36 NE 365)
+Grammar rules applied:
+- A_UNCOUNTABLE [GRAMMAR/grammar] Uncountable nouns are usually not used with an indefinite article. Use simply “freedom”. -> 'freedom'
+
+--- Grammar Edit ---
+Original: In cases where a manufacturer, assembler, producer, exporter or contractor has two (2) or more factories, project offices, plants, or plantations located in different localities, the seventy percent (70%) sales allocation mentioned in subparagraph (b) of subsection (2) above shall be prorated among the localities where the factories, project offices, plants, and plantations are located in proportion to their respective volumes of production during the period for which the tax is due.
+Corrected: In cases where a manufacturer, assembler, producer, exporter or contractor has two (2) or more factories, project offices, plants, or plantations located in different localities, the seventy percent (70%) sales allocation mentioned in subparagraph (b) of subsection (2) above shall be prorated among the localities where the factories, project offices, plant, and plantations are located in proportion to their respective volumes of production during the period for which the tax is due.
+Grammar rules applied:
+- AGREEMENT_SENT_START [GRAMMAR/grammar] You should probably use “plant”. -> 'plant'
+
+--- Grammar Edit ---
+Original: When an individual subject to the community tax acknowledges any document before a notary public, takes the oath of office upon election or appointment to any position in the government service; receives any license, certificate. or permit from any public authority; pays any tax or free; receives any money from any public fund; transacts other official business; or receives any salary or wage from any person or corporation with whom such transaction is made or business done or from whom any salary or wage is received to require such individual to exhibit the community tax certificate.
+Corrected: When an individual subjects to the community tax acknowledges any document before a notary public, takes the oath of office upon election or appointment to any position in the government service; receives any license, certificate. or permit from any public authority; pays any tax or free; receives any money from any public fund; transacts other official business; or receives any salary or wage from any person or corporation with whom such transaction is made or business done or from whom any salary or wage is received to require such individual to exhibit the community tax certificate.
+Grammar rules applied:
+- PCT_SINGULAR_NOUN_PLURAL_VERB_AGREEMENT [GRAMMAR/grammar] “Individual” is a singular noun. It appears that the verb form is incorrect. -> 'subjects'
+
+--- Grammar Edit ---
+Original: Levy on Real Property. - After the expiration of the time required to pay the delinquent tax, fee, or charge, real property may be levied on before, simultaneously, or after the distraint of personal property belonging to the delinquent taxpayer. To this end, the provincial, city or municipal treasurer, as the case may be, shall prepare a duly authenticated certificate showing the name of the taxpayer and the amount of the tax, fee, or charge, and penalty due from him. Said certificate shall operate with the force of a legal execution throughout the Philippines. Levy shall be effected by writing upon said certificate the description of the property upon which levy is made. At the same time, written notice of the levy shall be mailed to or served upon the assessor and the Register of Deeds of the province or city where the property is located who shall annotate the levy on the tax declaration and certificate of title of the property, respectively, and the delinquent taxpayer or, if he be absent from the Philippines, to his agent or the manager of the business in respect to which the liability arose, or if there be none, to the occupant of the property in question.
+Corrected: Levy on Real Property. - After the expiration of the time required to pay the delinquent tax, fee, or charge, real property may be levied on before, simultaneously, or after the distraint of personal property belonging to the delinquent taxpayer. To this end, the provincial, city or municipal treasurer, as the case may be, shall prepare a duly authenticated certificate showing the name of the taxpayer and the amount of the tax, fee, or charge, and penalty due from him. Said certificate shall operate with the force of a legal execution throughout the Philippines. Levy shall be effected by writing upon said certificate the description of the property upon which levy is made. At the same time, written notice of the levy shall be mailed to or served upon the assessor and the Register of Deeds of the province or city where the property is located who shall annotate the levy on the tax declaration and certificate of title of the property, respectively, and the delinquent taxpayer or, if he is absent from the Philippines, to his agent or the manager of the business in respect to which the liability arose, or if there be none, to the occupant of the property in question.
+Grammar rules applied:
+- PERS_PRONOUN_AGREEMENT [GRAMMAR/grammar] Use third-person verb with ‘he’. -> 'is'
+
+--- Grammar Edit ---
+Original: Q: How are the assessment levels to be applied be fixed?
+Corrected: Q: How are the assessment levels to be applied to be fixed?
+Grammar rules applied:
+- ATD_VERBS_TO_COLLOCATION [COLLOCATIONS/grammar] Probably a preposition is missing after ‘applied’. -> 'applied to be'
+

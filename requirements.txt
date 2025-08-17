@@ -1,0 +1,5 @@
+streamlit
+tqdm
+python-docx
+language-tool-python
+lxml
